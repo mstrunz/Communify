@@ -1,0 +1,156 @@
+@CHARSET "ISO-8859-1";
+body{
+	padding-top: 40px;
+	height:100%;
+	background-color: #f5f5f5;	
+}
+
+.maincontentcontainer{
+	border-radius: 0px 0px 15px 15px;
+	border: 1px solid silver;
+	background-color: #ffffff;
+	box-shadow: 1px 1px 1px #e5e5e5;
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+}
+
+#messageboard{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 0px !important;
+	margin-top: 0px !important;
+	margin-right: 20px !important;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	border-radius:0px;
+}
+
+#ui-datepicker-div{
+	background-color: #ffffff;	
+}
+
+#maincontent{
+	margin-top: 10px;	
+}
+
+.listactions{
+	margin-right: 10px;	
+}
+
+.suggestioncoins{
+	width: 50px;	
+}
+.specialbtn{
+	height:20px;
+	margin-bottom: 10px;
+	margin-left:5px;	
+}
+
+#loginform{
+	background-image: url("../img/logo_big.png");
+	background-repeat: no-repeat;
+	background-position: center top;	
+	padding-left:20px;
+}
+
+.btn-primary {
+  .buttonBackground(#0f0f0f, #000000);
+}
+
+.brand{
+	margin:0px !important;
+	padding:0px !important;	
+}
+
+.active a{
+	background-color: #6c6e6f !important;
+	background-image: none;	
+}
+
+.job_list{
+	list-style-type:none;
+	list-style-position:inside;
+	margin-left:0px;
+}
+.job_list li{
+	margin: 5px;
+	padding:5px;
+	border: 2px solid #6c6e6f;	
+	border-radius: 5px;
+	cursor: pointer;
+}
+.jobhover{
+	background-color: #be1e2e;
+	color: #ffffff;	
+}
+
+.jobselected{
+	background-color: #be1e2e;
+	color: #ffffff;	
+}
+.filterrow input, .filterrow select {
+	width:120px;
+	margin:0px;	
+}
+.orderer{
+	cursor: pointer;	
+}
+
+.ideatopicslider{
+	margin: 0px 80px 0px 80px;	
+}
+.ideatopicdescription{
+	vertical-align: top;
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
+
+.ideatopictable{
+	width:100%;	
+	border-right: 1px solid #dddddd;
+	border-top: 1px solid #dddddd;
+	margin-bottom: 20px;
+}
+.ideatopictable td{
+	padding: 10px;
+	border-left: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;		
+}
+
+
+.toolbar{
+	margin-bottom: 10px;	
+}
+.tools{
+	padding-left: 10px;
+	padding-top: 50px;	
+}
+
+.notachieved{
+	color: #d6d6d6;	
+}
+	
+.carousel-control {
+  top: 40px !important;
+}
+	
+.textbox{
+	padding :20px;	
+}	
+
+.rewardlogo{
+	width: 300px;
+	height:200px:	
+}
+.rewardlogo img{
+	height:150px;	
+}
+.rewardtable td{
+	cursor: pointer;		
+}
+
+.rewardtable p{
+	text-align: right;
+	padding-right:20px;
+}
+	
